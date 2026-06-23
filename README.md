@@ -140,7 +140,7 @@ This significantly reduced the number of external API requests while ensuring us
 
 ## Desktop Widget
 
-<img src="screenshots/widget.pmg" width="500">
+<img src="screenshots/widget.png" width="500">
 
 ## Desktop Notification
 
